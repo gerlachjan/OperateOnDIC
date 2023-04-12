@@ -7,9 +7,13 @@ This script is designed to analyze DIC (Digital Image Correlation) data obtained
 
 # Prerequisites
 The following software packages are required to run this script:
+
 Python 3.6 or higher
+
 NumPy
+
 SciPy
+
 Matplotlib
 
 # Contact
