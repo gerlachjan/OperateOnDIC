@@ -1,6 +1,8 @@
 # OperationOnDIC
 This script is designed to analyze DIC (Digital Image Correlation) data obtained during tensile loading of flat specimens (DP800) until fracture . The script calculates the current cross-section based on the point cloud obtained by the DIC data. Furthermore the script visualize field quantities such as equivalent Mises strain in 2D and 3D.
-![Alt text](/plots/img.jpg "Optional title")
+![Alt text](/plots/cross_section000.png "Optional title")
+![Alt text](/plots/mises2D000.png "Optional title")
+![Alt text](/plots/mises3D000.png "Optional title")
 
 # Prerequisites
 The following software packages are required to run this script:
