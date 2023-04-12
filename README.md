@@ -3,7 +3,7 @@ This script is designed to analyze DIC (Digital Image Correlation) data obtained
 ![Alt text](/plots/cross_section000.png "Optional title")
 ![Alt text](/plots/mises2D000.png "Optional title")
 ![Alt text](/plots/mises3D000.png "Optional title")
-<img src="/plots/mises3D000.png" alt="Alt text" width="500"/>
+<img src="/plots/mises3D000.png" alt="Alt text" width="1000"/>
 # Prerequisites
 The following software packages are required to run this script:
 
